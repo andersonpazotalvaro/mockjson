@@ -23,31 +23,6 @@
         "aht_inbound": "0:12:47",
         "login": "2020-02-01 21:06:21",
         "logout": "2020-02-14 06:12:58"
-    },
-    {
-        
-        "ext": "123",
-        "id": "",
-        "name_agent": "agente2",
-        "calls": "15",
-        "inbound": "15",
-        "outbound": "0",
-        "internal": "0",
-        "ready_time": "0:00:00",
-        "inbound_time": "3:11:51",
-        "outbound_time": "0:00:00",
-        "acw_time": "0:00:00",
-        "ring_time": "0:00:00",
-        "login_time": "3:11:51",
-        "aht": "0:12:47",
-        "occupancy": "100.00 %",
-        "aux_time": "0:00:00",
-        "hits": "0",
-        "rpc": "0",
-        "aht_outbound": "0:00:00",
-        "aht_inbound": "0:12:47",
-        "login": "2020-02-01 21:06:21",
-        "logout": "2020-02-14 06:12:58"
     }
   ]
 
